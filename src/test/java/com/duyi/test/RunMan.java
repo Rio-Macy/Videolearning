@@ -5,9 +5,12 @@ public class RunMan {
     private String name;
 
     public RunMan() {
+        this("sadf");
     }
 
     public RunMan(String name) {
+
+//        this();
         this.name = name;
     }
 
