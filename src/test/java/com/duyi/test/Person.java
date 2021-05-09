@@ -80,12 +80,11 @@ public class Person extends Animal {
     }
 
     @Override
-    public Integer write() {
+    public Object write(Animal animal) {
 
-        String code = "sshow codsae";
-        String li = "I love youds";
-        System.out.println("fafdsa ");
-        String show = "cshao";
-        return 90;
+        Person person = (Person) animal;
+        person.sum();
+
+        return "null";
     }
 }
