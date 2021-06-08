@@ -23,7 +23,7 @@ public interface UserService {
     User regist(User user);
 
     /**
-     *  用户登录
+     *  用户登录 0592 6028628 8101
      * @param email
      * @param password
      * @return
