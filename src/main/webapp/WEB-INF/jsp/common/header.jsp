@@ -9,10 +9,6 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 <!-- 头部导航栏 -->
-
-<a href="/WEB-INF/jsp/vip.jsp">vip.jsp</a>
-
-
 <nav class="navbar shadow navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <a class="navbar-brand" href="/">学习网站</a>
